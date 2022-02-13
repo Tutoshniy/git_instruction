@@ -46,3 +46,6 @@
 
 > git checkout master
 
+Добавление картинки или гифки:
+
+![Мемдляподнятиянастроения](nitw_the_rock_raise_eyebrow_meme.gif)
