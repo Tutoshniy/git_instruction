@@ -58,6 +58,7 @@
 Команда для создание ветки с именем branch_name:
 >git branch branch_name
 
+Переход в ветку с названием branch_name:
 >git checkout branch_name
 
 >git branch -d branch_name
