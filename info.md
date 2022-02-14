@@ -62,4 +62,5 @@
 
 >git branch -d branch_name
 
+Добавление в текущую ветку изменения из ветки branch_name:
 >git merge branch_name
