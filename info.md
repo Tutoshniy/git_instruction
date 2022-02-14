@@ -63,4 +63,8 @@
 Удаление ветки branch_name:
 >git branch -d branch_name
 
+Принудительное удаление ветки:
+>git branch -D branch_name
+
+
 >git merge branch_name
