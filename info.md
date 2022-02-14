@@ -49,3 +49,15 @@
 Добавление картинки или гифки:
 
 ![Мемдляподнятиянастроения](nitw_the_rock_raise_eyebrow_meme.gif)
+
+## Работа с ветками
+
+> git branch
+
+>git branch branch_name
+
+>git checkout branch_name
+
+>git branch -d branch_name
+
+>git merge branch_name
