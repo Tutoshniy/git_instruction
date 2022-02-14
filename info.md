@@ -58,7 +58,6 @@
 Команда для создание ветки с именем branch_name:
 >git branch branch_name
 
-## Очень важный заголовок
 Переход в ветку с названием branch_name:
 >git checkout branch_name
 
@@ -70,3 +69,6 @@
 
 Добавление в текущую ветку изменения из ветки branch_name:
 >git merge branch_name
+
+Вывод все комиты и визуализирует граф ветвей:
+>git log --graph
