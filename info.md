@@ -50,7 +50,7 @@
 
 ![Мемдляподнятиянастроения](nitw_the_rock_raise_eyebrow_meme.gif)
 
-## Работа с ветками
+# Работа с ветками
 
 Команда для вывода всех веток:
 > git branch
@@ -58,6 +58,7 @@
 Команда для создание ветки с именем branch_name:
 >git branch branch_name
 
+## Очень важный заголовок
 Переход в ветку с названием branch_name:
 >git checkout branch_name
 
